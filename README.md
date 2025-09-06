@@ -37,7 +37,6 @@
 ---
 
 ## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://www.linkedin.com/in/iamarpitpandey2005?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BkOaWyL6BSiKu0srBtgkS7Q%3D%3D)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitpandey1439@gmail.com)  
