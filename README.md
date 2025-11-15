@@ -123,10 +123,6 @@ Code repo for JavaScript tutorials
     <img src="https://img.icons8.com/?size=100&id=37246&format=png&color=ff3b3b" width="55px" alt="Gmail"/>
   </a>
 
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=111121&format=png&color=00ffbb" width="55px" alt="Portfolio"/>
-  </a>
-
   <a href="https://instagram.com/i_am_arpitpandey" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=32292&format=png&color=e1306c" width="55px" alt="Instagram"/>
   </a>
